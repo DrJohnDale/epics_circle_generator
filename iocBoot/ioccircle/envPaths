@@ -1,0 +1,3 @@
+epicsEnvSet("IOC","ioccircle")
+epicsEnvSet("TOP","/mnt/c/epics/circle")
+epicsEnvSet("EPICS_BASE","/mnt/c/epics/base-3.16.1")
